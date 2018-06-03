@@ -40,10 +40,15 @@ You can install MetaMask here: https://metamask.io/
 ## PLEX Token
 
 **Token Name:** PLEX
+
 **Token Symbol:** PLEX
+
 **Token Decimals:** 2
+
 **Contract Address:** 0x8DaaCD62b0D0a1b43D9eb0eDa36CAA0BB10f816d
+
 **Initial Supply:** 50,000,000
+
 **Maximum Supply:** 100,000,000
 
 
