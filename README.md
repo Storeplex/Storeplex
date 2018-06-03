@@ -29,7 +29,7 @@ Storeplex is a decentralised marketplace that allows anyone to buy and sell prod
 
 ## Storeplex Marketplace Demo
 
-We have a fully functioning demo of the Storeplex marketplace running on the Ethereum blockchain. You can access the Storeplex Marketplace demo, go to http://www.marketplace.storeplex.io
+We have a fully functioning demo of the Storeplex marketplace running on the Ethereum blockchain. You can access the Storeplex Marketplace demo, go to: http://marketplace.storeplex.io/
 
 To create listings and make purchases on the demo, you must have MetaMask installed.
 
